@@ -213,12 +213,12 @@ python test_simple.py
 - 📖 **Documentation**: [QUICK_START.md](QUICK_START.md)
 - 🔧 **Troubleshooting**: [TROUBLESHOOTING.md](TROUBLESHOOTING.md)
 - 📊 **Status**: [SYSTEM_STATUS.md](SYSTEM_STATUS.md)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/real-time-taxi-demand/issues)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/saivenkat1437/real-time-taxi-demand/issues)
 
 ### **Community**
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/real-time-taxi-demand/discussions)
-- 📧 **Email**: your-email@example.com
-- 🐦 **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/saivenkat1437/real-time-taxi-demand/discussions)
+- 📧 **Email**: saivenkat.raparthi@gmail.com
+- 🐦 **Twitter**: [@saivenkat1437](https://twitter.com/saivenkat1437)
 
 ## 📄 **License**
 
@@ -238,7 +238,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **🚀 Start your real-time taxi demand forecasting journey today!**
 
 ```bash
-git clone https://github.com/yourusername/real-time-taxi-demand.git
+git clone https://github.com/saivenkat1437/real-time-taxi-demand.git
 cd real-time-taxi-demand
 ./setup.sh
 ./run_demo.sh
@@ -248,9 +248,13 @@ cd real-time-taxi-demand
 
 ---
 
-*Built with ❤️ by the Real-Time Taxi Demand Team*
+*Built with ❤️ by Sai Venkat Raparthi*
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/real-time-taxi-demand.svg?style=social&label=Star)](https://github.com/yourusername/real-time-taxi-demand)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/real-time-taxi-demand.svg?style=social&label=Fork)](https://github.com/yourusername/real-time-taxi-demand/fork)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/real-time-taxi-demand.svg)](https://github.com/yourusername/real-time-taxi-demand/issues)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/real-time-taxi-demand.svg)](https://github.com/yourusername/real-time-taxi-demand/pulls) 
+**👨‍💻 Developer**: [Sai Venkat Raparthi](https://github.com/saivenkat1437)  
+**📧 Contact**: saivenkat.raparthi@gmail.com  
+**🌐 Portfolio**: [Personal Website](https://saivenkat1437.github.io)
+
+[![GitHub stars](https://img.shields.io/github/stars/saivenkat1437/real-time-taxi-demand.svg?style=social&label=Star)](https://github.com/saivenkat1437/real-time-taxi-demand)
+[![GitHub forks](https://img.shields.io/github/forks/saivenkat1437/real-time-taxi-demand.svg?style=social&label=Fork)](https://github.com/saivenkat1437/real-time-taxi-demand/fork)
+[![GitHub issues](https://img.shields.io/github/issues/saivenkat1437/real-time-taxi-demand.svg)](https://github.com/saivenkat1437/real-time-taxi-demand/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/saivenkat1437/real-time-taxi-demand.svg)](https://github.com/saivenkat1437/real-time-taxi-demand/pulls) 

@@ -6,7 +6,7 @@ Thank you for your interest in contributing to our project! We welcome contribut
 
 ### **1. Fork the Repository**
 ```bash
-git clone https://github.com/yourusername/real-time-taxi-demand.git
+git clone https://github.com/saivenkat1437/real-time-taxi-demand.git
 cd real-time-taxi-demand
 ```
 
@@ -134,7 +134,7 @@ When requesting features, please include:
 ### **Local Development**
 ```bash
 # Clone and setup
-git clone https://github.com/yourusername/real-time-taxi-demand.git
+git clone https://github.com/saivenkat1437/real-time-taxi-demand.git
 cd real-time-taxi-demand
 ./setup.sh
 
