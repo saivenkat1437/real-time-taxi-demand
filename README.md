@@ -1,22 +1,6 @@
 # 🚕 Real-Time Taxi Demand Forecasting System
-
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![Dash](https://img.shields.io/badge/Dash-2.0+-orange.svg)](https://dash.plotly.com/)
-[![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.0+-red.svg)](https://spark.apache.org/)
-[![Kafka](https://img.shields.io/badge/Apache%20Kafka-2.8+-black.svg)](https://kafka.apache.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/saivenkat1437/real-time-taxi-demand.svg?style=social&label=Star)](https://github.com/saivenkat1437/real-time-taxi-demand)
-[![GitHub forks](https://img.shields.io/github/forks/saivenkat1437/real-time-taxi-demand.svg?style=social&label=Fork)](https://github.com/saivenkat1437/real-time-taxi-demand)
-
 > **A cutting-edge real-time taxi demand forecasting system that leverages Apache Spark Streaming, Kafka, and advanced data visualization to provide live insights into NYC taxi demand patterns.**
 
-## 🌟 **Featured In**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Featured%20Project-Real%20Time%20Analytics-blue?style=for-the-badge" alt="Featured Project"/>
-  <img src="https://img.shields.io/badge/Technology-Data%20Science-green?style=for-the-badge" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/Industry-Transportation-orange?style=for-the-badge" alt="Transportation"/>
-</div>
 
 ## 📊 **Live Demo**
 
@@ -247,9 +231,6 @@ DASHBOARD_PORT=8050
 - [ ] **Documentation**: API documentation with Swagger
 - [ ] **Testing**: Comprehensive unit and integration tests
 
-## 🤝 **Contributing**
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
 ### **Development Setup**
 ```bash
@@ -282,42 +263,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 **Contact**
 
 **👨‍💻 Developer**: [Sai Venkat Raparthi](https://github.com/saivenkat1437)  
-**📧 Email**: saivenkat.raparthi@gmail.com  
-**🌐 Portfolio**: [Personal Website](https://saivenkat1437.github.io)  
-**💼 LinkedIn**: [Sai Venkat Raparthi](https://linkedin.com/in/saivenkat1437)
+**📧 Email**: sai.venky1437@gmail.com   
+**💼 LinkedIn**: [Sai Venkat Raparthi](https://linkedin.com/in/sairaparthi5)
 
----
-
-## ⭐ **Testimonials**
-
-> *"This project demonstrates exceptional skills in real-time data processing and system architecture. The combination of Apache Spark, Kafka, and interactive dashboards shows deep understanding of modern data engineering practices."*
-> 
-> **— Senior Data Engineer, Tech Company**
-
-> *"Impressive implementation of real-time analytics with clean, maintainable code. The dashboard is intuitive and the system architecture is well-designed for scalability."*
-> 
-> **— Full Stack Developer, Startup**
-
-> *"Excellent showcase of streaming data processing capabilities. The project effectively demonstrates how to build production-ready real-time analytics systems."*
-> 
-> **— Data Scientist, Fortune 500 Company**
-
-> *"Outstanding work on geospatial data visualization and real-time processing. The NYC taxi demand forecasting system is a perfect example of modern data engineering."*
-> 
-> **— Software Architect, Consulting Firm**
-
-> *"This project showcases advanced skills in distributed systems, real-time processing, and data visualization. The code quality and documentation are exceptional."*
-> 
-> **— Engineering Manager, Tech Startup**
-
----
-
-<div align="center">
-  <p><strong>Built with ❤️ by Sai Venkat Raparthi</strong></p>
-  <p>Showcasing advanced real-time data processing and analytics capabilities</p>
-  
-  [![GitHub stars](https://img.shields.io/github/stars/saivenkat1437/real-time-taxi-demand.svg?style=social&label=Star)](https://github.com/saivenkat1437/real-time-taxi-demand)
-  [![GitHub forks](https://img.shields.io/github/forks/saivenkat1437/real-time-taxi-demand.svg?style=social&label=Fork)](https://github.com/saivenkat1437/real-time-taxi-demand)
-  [![GitHub issues](https://img.shields.io/github/issues/saivenkat1437/real-time-taxi-demand.svg)](https://github.com/saivenkat1437/real-time-taxi-demand/issues)
-  [![GitHub pull requests](https://img.shields.io/github/issues-pr/saivenkat1437/real-time-taxi-demand.svg)](https://github.com/saivenkat1437/real-time-taxi-demand/pulls)
-</div> 
